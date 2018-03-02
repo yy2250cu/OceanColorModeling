@@ -11,3 +11,4 @@ git config user.email specific_email
 then fetch, merge, push, etc.
 
 5. For trajectory-based sparse data samples, please see the link here: <https://github.com/yy2250cu/OceanColorModeling/blob/master/data_coverage_GlobColour/preprocess_LDS_output/preprocess_LDS_splitFloats_dataQuality_2D_GlobColour_rfactors_correct.ipynb> 
+6. For some of the LDS results, please see the link here: <https://github.com/yy2250cu/OceanColorModeling/blob/master/data_coverage_GlobColour/lds_results_test/plot_holdout_predictions.pdf>
